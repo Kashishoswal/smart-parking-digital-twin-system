@@ -55,17 +55,24 @@ Raspberry Pi Camera
 
 ## 🖼 Visual Demo
 
-### Digital Twin Slot Modeling (Blender)
-![Digital Twin Model](assets/screenshots/digital_twin_model.png)
+### 🧱 Digital Twin Model (Blender)
+![Digital Twin Model](assets/digital_twin_model.png)
 
-### Vehicle Detection & Slot Status Output
-![YOLO Detection](assets/screenshots/yolo_detection_result.png)
+---
 
-### Real-Time Digital Twin Dashboard
-![Digital Twin Dashboard](assets/screenshots/digital_twin_dashboard.png)
+### 🖥 Live Digital Twin Dashboard (Three.js)
+![Digital Twin Dashboard](assets/digital_twin_dashboard.png)
 
-### Parking Availability Prediction Interface
-![Availability Prediction](assets/screenshots/availability_prediction.png)
+---
+
+### 🚗 YOLO-based Vehicle Detection Output
+![YOLO Detection Result](assets/yolo_detection_result.png)
+
+---
+
+### 🔮 Parking Availability Prediction
+![Availability Prediction](assets/availability_prediction.png)
+
 
 ## 🧪 Running the Demo (High-Level)
 
