@@ -52,6 +52,21 @@ Raspberry Pi Camera
 - **3D Modeling:** Blender
 
 ---
+
+## 🖼 Visual Demo
+
+### Digital Twin Slot Modeling (Blender)
+![Digital Twin Model](assets/screenshots/digital_twin_model.png)
+
+### Vehicle Detection & Slot Status Output
+![YOLO Detection](assets/screenshots/yolo_detection_result.png)
+
+### Real-Time Digital Twin Dashboard
+![Digital Twin Dashboard](assets/screenshots/digital_twin_dashboard.png)
+
+### Parking Availability Prediction Interface
+![Availability Prediction](assets/screenshots/availability_prediction.png)
+
 ## 🧪 Running the Demo (High-Level)
 
 This repository provides a high-level demonstration of the system workflow.
